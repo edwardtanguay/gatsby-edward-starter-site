@@ -1,5 +1,6 @@
 import * as React from "react"
-
+import '../styles/reset.scss';
+import '../styles/main.scss';
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
